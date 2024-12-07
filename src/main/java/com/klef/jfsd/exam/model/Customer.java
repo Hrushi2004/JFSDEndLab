@@ -75,11 +75,6 @@ public class Customer {
 	}
 }
 
-//
-//INSERT INTO Customer (customerId, name, email, phoneNumber, address, dateOfBirth)
-//VALUES
-//(1, 'Hrushi', 'hrushi@example.com', '1234567890', 'Vijayawada', '07-10-2004'),
-//(2, 'Ramu', 'ramu@example.com', '0987654321', 'Guntur', '07-12-2005'),
-//(3, 'JSK', 'jsk@example.com', '1122334455', 'Vizag', '08-02-1999');
+
 
 
